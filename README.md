@@ -1,3 +1,3 @@
 # ESenTRy
 Earthquake SenTRy
-Earthquake early warning system based on the instrumental modified Mercalli intensity
+An on-site earthquake early warning system based on the instrumental modified Mercalli intensity
